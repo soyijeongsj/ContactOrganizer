@@ -1,8 +1,6 @@
 # About The Project
 Built for a local dog grooming business - Pet Stop Grooming.  
-This tool cleans a messy csv export of 2000+ Apple contacts viewed on **Google Sheets**, sorting them by ID, Name, and Phone # for upload into Clover POS.
-
-
+This tool cleans a messy csv export of 2000+ Apple contacts viewed on **Google Sheets**, sorting them by ID, Name, and Phone # for upload into Clover POS.  
 > Note: This project was created for a very specific contact export format (`gs_contacts.csv`) from Pet Stop Grooming.  
 > Due to the extremely chaotic formatting of the orignial contact sheet, it's not intended for general use.
 
