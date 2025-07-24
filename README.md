@@ -11,14 +11,14 @@ This tool cleans a messy csv export of 2000+ Apple contacts viewed on **Google S
 
 # Usage
 ### Input: Messy Contacts CSV (`gs_contacts.csv`)
-![Messy CSV Screenshot](images/input_sample.png)
-![Messy Google Sheets Screenshot](images/input_gs_sample.png)
+![Messy CSV Screenshot](input_sample.png)
+![Messy Google Sheets Screenshot](input_gs_sample.png)
 ### Output: Cleaned & Sorted Contacts CSV (`cleaned_contacts.csv`)
-![Clean CSV Screenshot](images/output_sample.png)
-![Clean Google Sheets Screenshot](images/output_gs_sample.png)
+![Clean CSV Screenshot](output_sample.png)
+![Clean Google Sheets Screenshot](output_gs_sample.png)
 ### Sample Data
 A censored sample input file is included to show how the original formatting looked.
-[`sample_data/gs_contacts_sample.csv`](/sample_data/gs_contacts_sample.csv)
+[`gs_contacts_sample.csv`](gs_contacts_sample.csv)
 
 > Real client data was excluded for privacy. All examples are fictional and altered.
 
